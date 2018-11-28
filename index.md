@@ -12,7 +12,7 @@ Unfortunately, avoiding diagenesis is a difficult if not impossible task as diag
 For more information please read [this paper in GCA] (https://www.sciencedirect.com/science/article/pii/S0016703718301248).
 
 ### An early diagenetic origin for the basal Ediacaran cap carbonates
-For more details check out [our rescent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
+For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
 
 ### The Trezona carbon isotope anomaly
 
