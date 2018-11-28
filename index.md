@@ -6,8 +6,19 @@ However, one of the main limitations in using this geochemical archive is the su
 For geochemists and Earth historians alike diagenesis is often regarded as a problem to be avoided. Diagenetic process adds complexity to the geochemical signals and in the worst case can obliterate the primary environmental information. 
 Unfortunately, avoiding diagenesis is a difficult if not impossible task as diagenetic alteration of carbonates sediments has been shown to occur on all timescales (syn-depositional to late burial) and all length-scales (micrometers to kilometers). In contrast to previous attempts of avoiding diagenesis, my research seeks to extract the primary chemical information from ancient carbonate sediments by quantifying the diagenetic processes.
 
+## Research Projects
+
+### Quantifying carbonate diagenesis using Ca and Mg isotopes
+
+### An early diagenetic origin for the basal Ediacaran cap carbonates
+For more details check out [our rescent paper](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
 
 
+### The Trezona carbon isotope anomaly
+
+### End-Ordovician glaciation
+
+### The chemistry of shallow water environments
 
 
 
