@@ -1,4 +1,4 @@
-## Interests
+## The Geochemical Record of Earth History
 
 The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. 
 However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. 
