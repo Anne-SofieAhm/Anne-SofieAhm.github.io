@@ -1,7 +1,7 @@
 ## By using a combination of numerical models and measurements of stable calcium and magnesium isotopes, my research focuses on constructing a new framework to understand and quantify the effects of early diagenesis in carbonate sediments
 
 The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. 
-However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study today. 
+However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. 
 
 For geochemists and Earth historians alike diagenesis is often regarded as a problem to be avoided. Diagenetic process adds complexity to the geochemical signals and in the worst case can obliterate the primary environmental information. 
 Unfortunately, avoiding diagenesis is a difficult if not impossible task as diagenetic alteration of carbonates sediments has been shown to occur on all timescales (syn-depositional to late burial) and all length-scales (micrometers to kilometers). In contrast to previous attempts of avoiding diagenesis, my research seeks to extract the primary chemical information from ancient carbonate sediments by quantifying the diagenetic processes.
