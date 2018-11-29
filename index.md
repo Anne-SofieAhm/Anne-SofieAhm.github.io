@@ -1,5 +1,7 @@
 # Biography
 
+<img src="Anne-SofieAhm.github.io/DSC_0086.JPG">
+
 ### Postdoctoral Research Associate
 Princeton University,
 Carlsberg Foundation
@@ -36,7 +38,7 @@ Following the last great Snowball Earth event, 635 million years ago, the surfac
 
 For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
 
-[Photo of the Noonday Cap Dolostone in Death Valley] <img src="Anne-SofieAhm.github.io/DSC_0086.JPG">
+
 
 ## The chemistry of shallow water environments
 
