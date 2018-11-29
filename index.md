@@ -1,3 +1,15 @@
+# Biography
+
+### Postdoctoral Research Associate
+Princeton University
+Carlsberg Foundation
+
+### PhD
+University of Copenhagen, 2016
+Advisor Christian Bjerrum
+
+[download CV](https://carboncycle.princeton.edu/sites/default/files/princeton_cv.pdf)
+
 ## The Geochemical Record of Earth History
 
 The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. 
