@@ -28,9 +28,7 @@ Diagenetic reactions involve fluids from either rain (meteoric water), seawater,
 
 For more information please check out [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248) and feel free to download the [code here](https://github.com/Anne-SofieAhm/Diagenesis-model)
 
-<img src="https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png" width="300" />
-
-![Image](https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png =250x)
+![Image](https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png =300x)
 
 ### An early diagenetic origin for the basal Ediacaran cap carbonates
 Following the last great Snowball Earth event, 635 million years ago, the surface of our planet went through dramatic changes. This period is marked by conspicuous dolostone units that cap glacial deposits worldwide (the basal Ediacaran cap dolostones). By measuring calcium and magnesium isotope ratios in cap dolostone units from across the world, we have identified spatial patterns of fluid flow that record the circulation of glacial seawater beneath the seafloor during Snowball Earth deglaciation. This research has revealed that the geochemical variability recorded in cap dolostones largely is the product of local diagenetic processes expressed globally in continental margins. As a result, this work has fundamentally changed our understanding of the evolution of seawater chemistry following a Snowball Earth and tackles on of the most challenging stratigraphic phenomenon in Earth history. 
