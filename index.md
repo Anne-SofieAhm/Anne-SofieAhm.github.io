@@ -9,7 +9,7 @@ University of Copenhagen, 2016,
 Advisor Christian Bjerrum
 
 [Curriculum Vitae](https://www.princeton.edu/geosciences/people/data/a/aahm/CV.pdf)
-(updated November 2018)
+(updated November 2018), 
 [Google Scholar](https://scholar.google.com/citations?user=fJsyZeYAAAAJ&hl=en)
 
 ## The Geochemical Record of Earth History
