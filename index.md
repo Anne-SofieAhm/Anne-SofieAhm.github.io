@@ -1,6 +1,7 @@
 # Biography
 <p align="center">
 <img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
+</p>
 
 ### Postdoctoral Research Associate
 Princeton University,
@@ -40,7 +41,7 @@ Following the last great Snowball Earth event, 635 million years ago, the surfac
 For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
 <p align="center">
 <img src="Anne-SofieAhm.github.io/Fig_seawater_model2.png" width="600">
-      
+</p>     
 
 ## The chemistry of shallow water environments
 
