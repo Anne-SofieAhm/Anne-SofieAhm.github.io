@@ -1,7 +1,7 @@
 # Biography
 
 <img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
-
+\begin{centering}
 ### Postdoctoral Research Associate
 Princeton University,
 Carlsberg Foundation
@@ -9,6 +9,7 @@ Carlsberg Foundation
 ### PhD
 University of Copenhagen, 2016,
 Advisor Christian Bjerrum
+\end{centering}
 
 [Curriculum Vitae](https://www.princeton.edu/geosciences/people/data/a/aahm/CV.pdf)
 (updated November 2018), 
