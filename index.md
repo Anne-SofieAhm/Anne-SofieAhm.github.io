@@ -8,7 +8,7 @@ Carlsberg Foundation
 University of Copenhagen, 2016
 Advisor Christian Bjerrum
 
-[download CV](https://carboncycle.princeton.edu/sites/default/files/princeton_cv.pdf)
+[Curriculum Vitae](https://www.princeton.edu/geosciences/people/data/a/aahm/CV.pdf)
 
 ## The Geochemical Record of Earth History
 
