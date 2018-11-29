@@ -1,4 +1,4 @@
-## By using a combination of numerical models and measurements of stable calcium and magnesium isotopes, my research focuses on constructing a new framework to understand and quantify the effects of early diagenesis in carbonate sediments
+## Interests
 
 The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. 
 However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. 
@@ -14,7 +14,8 @@ Diagenetic reactions involve fluids from either rain (meteoric water), seawater,
 
 <img src="https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png" width="300" />
 
-For more information please read [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248) and feel free to download the [code here](https://github.com/Anne-SofieAhm/Diagenesis-model)
+For more information please check out [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248) and feel free to download the [code here](https://github.com/Anne-SofieAhm/Diagenesis-model)
+
 
 ### An early diagenetic origin for the basal Ediacaran cap carbonates
 For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
