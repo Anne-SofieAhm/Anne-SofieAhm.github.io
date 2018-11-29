@@ -14,7 +14,7 @@ Diagenetic reactions involve fluids from either rain (meteoric water), seawater,
 
 <img src="https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png" width="300">
 
-For more information please read [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248).
+For more information please read [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248) and feel free to download the [code here](https://github.com/Anne-SofieAhm/Diagenesis-model)
 
 ### An early diagenetic origin for the basal Ediacaran cap carbonates
 For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
