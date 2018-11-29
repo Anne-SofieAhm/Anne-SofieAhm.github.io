@@ -38,7 +38,8 @@ Following the last great Snowball Earth event, 635 million years ago, the surfac
 
 For more details check out [our recent paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X18306484).
 
-
+<img src="Anne-SofieAhm.github.io/Fig_seawater_model2.png">
+      
 
 ## The chemistry of shallow water environments
 
