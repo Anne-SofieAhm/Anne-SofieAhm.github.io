@@ -9,6 +9,7 @@ University of Copenhagen, 2016
 Advisor Christian Bjerrum
 
 [Curriculum Vitae](https://www.princeton.edu/geosciences/people/data/a/aahm/CV.pdf)
+(updated November 2018)
 
 ## The Geochemical Record of Earth History
 
@@ -29,6 +30,7 @@ For more information please check out [this paper in GCA](https://www.sciencedir
 
 <img src="https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png" width="300" />
 
+![Image](https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/blob/master/Box_model4.png)
 
 ### An early diagenetic origin for the basal Ediacaran cap carbonates
 Following the last great Snowball Earth event, 635 million years ago, the surface of our planet went through dramatic changes. This period is marked by conspicuous dolostone units that cap glacial deposits worldwide (the basal Ediacaran cap dolostones). By measuring calcium and magnesium isotope ratios in cap dolostone units from across the world, we have identified spatial patterns of fluid flow that record the circulation of glacial seawater beneath the seafloor during Snowball Earth deglaciation. This research has revealed that the geochemical variability recorded in cap dolostones largely is the product of local diagenetic processes expressed globally in continental margins. As a result, this work has fundamentally changed our understanding of the evolution of seawater chemistry following a Snowball Earth and tackles on of the most challenging stratigraphic phenomenon in Earth history. 
@@ -43,10 +45,6 @@ For more details check out [our recent paper in EPSL](https://www.sciencedirect.
 ### The chemistry of shallow water environments
 
 
-
-You can use the [editor on GitHub](https://github.com/Anne-SofieAhm/Anne-SofieAhm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
