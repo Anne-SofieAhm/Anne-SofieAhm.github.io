@@ -47,7 +47,7 @@ For more details check out [our recent paper in EPSL](https://www.sciencedirect.
 
 ## The Trezona carbon isotope anomaly
 
-The descent into the last great Snowball Earth glaciation is recorded by an extreme negative carbon isotope excursion -- The Trezona Carbon Isotope Excursion. This pre-glacial excursion is found globally in carbonate rocks and reaches enigmatic values of -10 per mill. Through measurements of calcium and magnesium isotopes, I am exploring the relative timing and potential drivers for this excursion. 
+The descent into the last great Snowball Earth glaciation is recorded by an extreme negative carbon isotope excursion -- The Trezona anomaly. This pre-glacial excursion is found globally in carbonate rocks and reaches enigmatic values of -10 per mill. Through measurements of calcium and magnesium isotopes, I am exploring the relative timing and potential drivers for this excursion. 
 
 
 ## The chemistry of shallow water environments
