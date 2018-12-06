@@ -1,8 +1,7 @@
 # Biography
 
-### Postdoctoral Research Associate
-Princeton University,
-Carlsberg Foundation
+### Carlsberg Foundation Postdoctoral Fellow
+Princeton University, [The Higgins Lab](https://carboncycle.princeton.edu/)
 
 ### PhD
 University of Copenhagen, 2016,
