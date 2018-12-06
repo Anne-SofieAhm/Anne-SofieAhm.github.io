@@ -21,7 +21,7 @@ I consider myself both a geochemist and an Earth historian. I am interested in h
 # Research Projects
 
 <p align="center">
-<img src="Anne-SofieAhm.github.io/Box_model4.png" width="250">
+<img src="Anne-SofieAhm.github.io/Fig1_boxmodel_b.png" width="250">
 </p>   
 
 ## Quantifying carbonate diagenesis using Ca and Mg isotopes
