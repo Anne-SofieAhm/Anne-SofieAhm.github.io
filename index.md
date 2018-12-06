@@ -52,7 +52,9 @@ The descent into the last great Snowball Earth glaciation is recorded by an extr
 <p align="center">
 <img src="Anne-SofieAhm.github.io/Snowball Earth.jpg" width="600">
 </p> 
-      
+
+## Sensitivity of Fe speciation to oxidative weathering
+
 ## The chemistry of shallow water environments
 
 
