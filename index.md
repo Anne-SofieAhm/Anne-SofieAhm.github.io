@@ -21,21 +21,22 @@ I consider myself both a geochemist and an Earth historian. I am interested in h
 # Research Projects
 
 <p align="center">
-<img src="Anne-SofieAhm.github.io/Fig1_boxmodel_b.png" width="250">
-</p>   
+<img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
+</p>
+  
 
 ## Quantifying carbonate diagenesis using Ca and Mg isotopes
 
 Diagenetic reactions involve fluids from either rain (meteoric water), seawater, or deep crustal brines, that flow through the sediment. The amount of fluid flow determines the extent to which diagenesis alters or preserves the original geochemical signals (fluid- and sediment-buffered diagenesis). I have developed a numerical model that simulates these reactions between sediments and pore-fluids along the fluid flow path. The model has been ground-truthed against measurements of calcium and magnesium isotopes from modern to Neogene carbonate sediments in the Bahamas. By quantifying the style and extent of early marine diagenesis (fluid- versus sediment-buffered), this model can explain much of the stratigraphic and lateral variability observed in the chemistry of Neogene shallow-water carbonate sediments and extract the chemical composition of contemporaneous seawater. 
 
+<p align="center">
+<img src="Anne-SofieAhm.github.io/Fig1_boxmodel_b.png" width="250">
+</p> 
+
 For more information please check out [this paper in GCA](https://www.sciencedirect.com/science/article/pii/S0016703718301248) and feel free to download the [code here](https://github.com/Anne-SofieAhm/Diagenesis-model)
 
 
 ## An early diagenetic origin for the basal Ediacaran cap carbonates
-
-<p align="center">
-<img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
-</p>
 
 635 million years ago, the surface of our planet went through dramatic changes during the aftermath of the last great Snowball Earth. This period is marked by conspicuous dolostone units that cap glacial deposits worldwide -- the basal Ediacaran cap dolostones. By measuring calcium and magnesium isotope ratios in cap dolostone units from across the world, we have identified spatial patterns of fluid flow that record the circulation of glacial seawater beneath the seafloor during Snowball Earth deglaciation. This research has revealed that the geochemical variability recorded in cap dolostones largely is the product of local diagenetic processes expressed globally in continental margins. 
 
