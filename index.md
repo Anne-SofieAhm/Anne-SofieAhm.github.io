@@ -59,7 +59,7 @@ The concentration of reactive Fe in sedimentary rocks is extremely sensitive to 
 This work emphasizes the limitations for using measurements of the concentration of pyrite and iron oxide in rocks collected from outcrop to infer past changes in oxygen levels (the iron speciation proxy) and highlights the need for more robust methods to evaluate the degree of alteration and diagenesis in ancient sediments.
 
 <p align="center">
-<img src="Anne-SofieAhm.github.io/photoDan.jpg" width="600">
+<img src="Anne-SofieAhm.github.io/photoDan.jpg" width="400">
 </p> 
       
 For more details check out [our paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X16305295).
