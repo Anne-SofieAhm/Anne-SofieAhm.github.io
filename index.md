@@ -19,11 +19,16 @@ I am a geochemist and an Earth historian. I am interested in how we can use the 
 
 ## Geochemistry
 
-I measure non-traditional stable isotopes (such as Ca, Mg, and stable Sr) and trace elements to investigate the diagenetic history of ancient sediments and reconstruct changes in the surface conditions of Earth through time. Different elements are separated from their matrix using an automated column chromotragphy system (Dionex). Following purification samples are then measured on an multicollector ICP-MS. 
+I measure non-traditional stable isotopes (such as Ca, Mg, and stable Sr) and trace elements to investigate the diagenetic history of ancient sediments and reconstruct changes in the surface conditions of Earth through time. Different elements are separated from their matrix using an automated column chromotragphy system (Dionex). Following purification samples are measured on an multicollector ICP-MS. 
 
 <img src="Anne-SofieAhm.github.io/IMG_0695.JPG" width="300">
 <img src="Anne-SofieAhm.github.io/IMG_0696.JPG" width="300">    
      
+Measurements of Ca isotopes on an ICP multi collector has traditionally been difficult due to the interferance between ArHH and 42Ca. As a results measurements are performed in medium with cups centered on resolution on the "shoulder" of the 42Ca peak. 
+
+<img src="Anne-SofieAhm.github.io/IMG_0698.JPG" width="300">
+<img src="Anne-SofieAhm.github.io/IMG_0699.JPG" width="300">  
+
 
 # Research Projects
 
