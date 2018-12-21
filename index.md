@@ -58,6 +58,10 @@ The descent into the last great Snowball Earth glaciation is recorded by an extr
 The concentration of reactive Fe in sedimentary rocks is extremely sensitive to modern weathering processes. Understanding the record of redox sensitive elements in ancient sediments is fundamental for extracting records of the concentration of atmospheric oxygen through Earth history. By using trace element analysis of samples from a shallow self-drilled core and coincident outcrop from Vinini Creek (Central Nevada), I found that in core samples there is abundant iron bound to pyrite and siderite minerals. In contrast, in outcrop samples much of that iron had been remobilized and transformed into iron oxides. 
 This work emphasizes the limitations for using measurements of the concentration of pyrite and iron oxide in rocks collected from outcrop to infer past changes in oxygen levels (the iron speciation proxy) and highlights the need for more robust methods to evaluate the degree of alteration and diagenesis in ancient sediments.
 
+<p align="center">
+<img src="Anne-SofieAhm.github.io/photoDan.jpg" width="600">
+</p> 
+      
 For more details check out [our paper in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X16305295).
 
 
