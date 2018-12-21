@@ -17,6 +17,13 @@ Advisor Christian Bjerrum
 
 I am a geochemist and an Earth historian. I am interested in how we can use the chemistry of rocks to gain insight into the surface conditions of Earth in the past. The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. My research seeks to extract the primary chemical information from ancient carbonate sediments by better understanding the diagenetic processes.
 
+## Geochemistry
+
+I measure non-traditional stable isotopes (such as Ca, Mg, and stable Sr) and trace elements to investigate the diagenetic history of ancient sediments and reconstruct changes in the surface conditions of Earth through time. Different elements are separated from their matrix using an automated column chromotragphy system (Dionex). Following purification samples are then measured on an multicollector ICP-MS. 
+
+<img src="Anne-SofieAhm.github.io/IMG_0695.JPG" width="300">
+<img src="Anne-SofieAhm.github.io/IMG_0696.JPG" width="300">    
+     
 
 # Research Projects
 
