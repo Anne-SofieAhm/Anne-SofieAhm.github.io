@@ -26,7 +26,7 @@ I measure non-traditional stable isotopes (such as Ca, Mg, and stable Sr) and tr
      
 Measurements of Ca isotopes on an ICP multi collector has traditionally been difficult due to the interference between ArHH and 42Ca. As a result measurements are performed in medium with cups centered on resolution on the "shoulder" of the 42Ca peak. 
 
-<img src="Anne-SofieAhm.github.io/IMG_0698.JPG" width="300">
+<img src="Anne-SofieAhm.github.io/IMG_0698.JPG" width="300" image-orientation="none">
 <img src="Anne-SofieAhm.github.io/IMG_0699.JPG" width="300">  
 
 
