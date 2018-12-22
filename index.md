@@ -1,5 +1,9 @@
 # Biography
 
+<p align="center">
+<img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
+</p>
+
 ### Carlsberg Foundation Postdoctoral Fellow
 Princeton University, [The Higgins Lab](https://carboncycle.princeton.edu/)
 
@@ -31,10 +35,6 @@ Measurements of Ca isotopes on an ICP multi collector has traditionally been dif
 
 
 # Research Projects
-
-<p align="center">
-<img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
-</p>
   
 
 ## Quantifying carbonate diagenesis using Ca and Mg isotopes
