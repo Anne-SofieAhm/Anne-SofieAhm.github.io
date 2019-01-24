@@ -4,13 +4,14 @@
 <img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
 </p>
 
+I have a PhD in Geoscience from the University of Copenhagen, completed in 2016, with a focus on using stable isotopes and trace element geochemistry to reconstruct changes in the surface conditions of Earth through time. Currently, I am a postdoctoral researcher at Princeton University working with isotopic measurements of Ca, Mg, and Sr in both modern and ancient carbonate sediments.
+
 ### Carlsberg Foundation Postdoctoral Fellow
 Princeton University, [The Higgins Lab](https://carboncycle.princeton.edu/)
 
 ### PhD
 University of Copenhagen, 2016,
 Advisor Christian Bjerrum
-
 
 [Curriculum Vitae](https://www.princeton.edu/geosciences/people/data/a/aahm/CV.pdf)
 (updated November 2018)
@@ -19,7 +20,8 @@ Advisor Christian Bjerrum
 
 ## Research Interests
 
-I am a geochemist and an Earth historian. I am interested in how we can use the chemistry of rocks to gain insight into the surface conditions of Earth in the past. The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history -- from prior to the Great Oxidation Event, through the Cambrian explosion of animal life, and continuing through the Phanerozoic to the present. However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. My research seeks to extract the primary chemical information from ancient carbonate sediments by better understanding the diagenetic processes.
+As an Earth Historian, I am interested in how we can use the chemistry of rocks to gain insight into the surface conditions of Earth in the past. The chemistry of marine carbonate sediments has been used to reconstruct the evolution of global biogeochemical cycles for a wide range of elements throughout the entirety of Earth history. However, one of the main limitations in using this geochemical archive is the susceptibility of carbonate sediments to diagenesis, as unlithified sediments are transformed into the rocks we can study in the geological record. Using multiple isotope systems and numerical models of diagenesis, my research seeks to extract the primary chemical information from ancient carbonate sediments by better understanding the diagenetic processes.
+
 
 ## Geochemistry
 
