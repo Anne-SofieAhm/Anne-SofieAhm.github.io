@@ -1,7 +1,16 @@
 ---
 layout: default
-title: About Anne-Sofie
+title: Research Projects
 ---
+
+<h1>{{ page.title }}</h1>
+<ul class="projects">
+
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 
 <h1>Research Interests</h1>
 
@@ -9,13 +18,12 @@ title: About Anne-Sofie
 
 <img src="Anne-SofieAhm.github.io/IMG_20190102_142845237.jpg" width="450"/>
 
-<hr /> --- <hr />
+<hr />
 
-<h2>Past and current projects</h2>
+<h1>Past and current projects</h1>
 
 <p>I am particularly interested in the co-evolution of climate and life during fundamental transitional periods in Earth history such as the Neoproterozoic Snowball Earth events, the
 Cambrian explosion of animal life, and the end-Ordovician mass extinction.
-</p>
 
 <ol>
   <li>Quantifying carbonate diagenesis using Ca and Mg isotopes</li>
@@ -23,3 +31,4 @@ Cambrian explosion of animal life, and the end-Ordovician mass extinction.
   <li>The Trezona carbon isotope anomaly</li>
   <li>Sensitivity of Fe speciation to oxidative weathering</li>
 </ol>
+</p>
