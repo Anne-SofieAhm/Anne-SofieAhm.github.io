@@ -1,4 +1,5 @@
-layout: projects
+---
+layout: post
 title: "Quantifying carbonate diagenesis using Ca and Mg isotopes"
 date: 2019-01-24
 ---
