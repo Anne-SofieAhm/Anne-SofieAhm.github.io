@@ -1,2 +1,3 @@
 name: Anne-Sofie Crüger Ahm
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
