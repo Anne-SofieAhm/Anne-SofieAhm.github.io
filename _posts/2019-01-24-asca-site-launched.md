@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anne-Sofie C. Ahm, Earth Historian, Launches Site"
+title: "Anne-Sofie Launches Site"
 date: 2019-01-24
 ---
 
