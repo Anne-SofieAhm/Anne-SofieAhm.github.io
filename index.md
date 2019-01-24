@@ -4,10 +4,8 @@
 
 I have a PhD in Geoscience from the University of Copenhagen, completed in 2016, with a focus on using stable isotopes and trace element geochemistry to reconstruct changes in the surface conditions of Earth through time. Currently, I am a postdoctoral researcher at Princeton University working with isotopic measurements of Ca, Mg, and Sr in both modern and ancient carbonate sediments.
 
-
-%<p align="center">
-%<img src="Anne-SofieAhm.github.io/DSC_0086.JPG" width="600">
-%</p>
+### NEWS: I was just awarded a Simons Foundation Postdoctoral Fellowship (Origins of Life)
+Starting April 2019, I will be splitting my time between Caltech and Princeton University working on better understanding the chemistry of Archean carbonate sediments to contrain the fluxes of the global carbon cycle before and during the rise of atmospheric oxygen at the Great Oxidation Event. 
 
 ### Carlsberg Foundation Postdoctoral Fellow
 Princeton University, [The Higgins Lab](https://carboncycle.princeton.edu/)
