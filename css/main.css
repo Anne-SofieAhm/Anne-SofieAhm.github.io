@@ -56,5 +56,6 @@ top: 10px;
 .Textwrap {
   float: right;
   margin: 10px;
+  width: 50%;
 
 }
