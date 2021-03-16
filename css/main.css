@@ -78,7 +78,6 @@ top: 10px; */
     }
 
 .avatar {
-      vertical-align: middle;
       object-fit: cover;
       border-radius:50%;
       width: 150px;
