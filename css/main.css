@@ -79,9 +79,9 @@ top: 10px; */
 
 .avatar {
       object-fit: cover;
-      border-radius:50%;
-      width: 150px;
-      height: 150px;
+      border-radius: 50%;
+      width: 300px;
+      height: 300px;
     }
 
 /* .Textwrap {
