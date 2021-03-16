@@ -40,6 +40,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    position: fixed;
 }
 
 ul.posts {
@@ -51,12 +52,12 @@ ul.posts li {
     list-style: none;
 }
 
-.site-title::before {
+/* .site-title::before {
 content: url("../IMG_20181231_153408046.jpg");
 display: inline-block;
 position: relative;
 width: 5px;
-top: 10px;
+top: 10px; */
 
 }
 
