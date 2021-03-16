@@ -53,9 +53,14 @@ top: 10px;
 
 }
 
+.holder img {
+      max-height: auto;
+      max-width: 50%;
+      object-fit: cover;
+    }
+
 .Textwrap {
   float: right;
   margin: 10px;
-  width: 50%;
 
 }
