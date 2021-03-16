@@ -33,11 +33,19 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+.site-title::before {
+content: url("../DSC_0086.jpg");
+display: inline-block;
+position: relative;
+width: 5px;
+top: 10px;
 }
