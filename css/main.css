@@ -79,7 +79,10 @@ top: 10px; */
 
 .avatar {
       vertical-align: middle;
-      border-radius: 50%;
+      object-fit: cover;
+      border-radius:50%;
+      width: 150px;
+      height: 150px;
     }
 
 /* .Textwrap {
