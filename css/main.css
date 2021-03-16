@@ -77,6 +77,13 @@ top: 10px; */
       padding-right: 20px;
     }
 
+.avatar {
+      vertical-align: middle;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    }
+
 /* .Textwrap {
   float: right;
   margin-left: 10px;
