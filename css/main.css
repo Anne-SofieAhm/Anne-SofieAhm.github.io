@@ -60,7 +60,7 @@ top: 10px;
 .holder img {
       max-height: auto;
       max-width: 50%;
-      align: top;
+      float: left;
     }
 
 .Textwrap {
