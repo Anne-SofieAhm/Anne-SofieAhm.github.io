@@ -1,3 +1,5 @@
+/* This file specifices custom commands (like functions) that can be called in the other directories */
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -48,4 +50,11 @@ display: inline-block;
 position: relative;
 width: 5px;
 top: 10px;
+
+}
+
+.Textwrap {
+  float: right;
+  margin: 10px;
+
 }
