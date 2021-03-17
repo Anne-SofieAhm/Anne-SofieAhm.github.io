@@ -85,6 +85,13 @@ top: 10px; */
       width: 300px;
     }
 
+.rounded img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+    }
+
 /* .Textwrap {
   float: right;
   margin-left: 10px;
