@@ -67,11 +67,12 @@ top: 10px; */
 
 }
 
+/* .holder {
+      display: inline;
+    } */
+
 .holder {
       display: inline;
-    }
-
-.holder img {
       max-height: auto;
       max-width: 50%;
       float: left;
