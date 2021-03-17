@@ -98,7 +98,7 @@ top: 10px; */
     /* Three image containers (use 25% for four, and 50% for two, etc) */
     .column {
       float: left;
-      width: 22%;
+      width: 32%;
       padding: 5px;
     }
 
