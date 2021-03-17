@@ -34,7 +34,7 @@ h1 {
 p {
     font-size: 1em;
     font-family:'Arial';
-    line-height: 1.2em;
+    line-height: 1.4em;
     color: #333;
 }
 
@@ -100,7 +100,7 @@ top: 10px; */
       clear: both;
       display: table;
     }
-    
+
 /* .Textwrap {
   float: right;
   margin-left: 10px;
