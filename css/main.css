@@ -83,13 +83,7 @@ top: 10px; */
       border-radius: 50%;
       height: 300px;
       width: 300px;
-    }
-
-.rounded img {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
+      margin: 0 auto;
     }
 
 /* .Textwrap {
