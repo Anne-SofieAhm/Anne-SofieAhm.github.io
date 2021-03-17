@@ -71,18 +71,17 @@ top: 10px; */
     }
 
 .holder img {
-      max-height: 50%;
-      max-width: auto;
+      max-height: auto;
+      max-width: 50%;
       float: left;
       padding-right: 20px;
     }
 
-.avatar {
-      width: 300px;
-      height: 300px;
-      position: relative;
-      overflow: hidden;
+.rounded {
+      object-fit: cover;
       border-radius: 50%;
+      height: 300px;
+      width: 300px;
     }
 
 /* .Textwrap {
