@@ -102,6 +102,13 @@ top: 10px; */
       padding: 5px;
     }
 
+/* Clear floats after image containers */
+.row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
     /* Three image containers (use 25% for four, and 50% for two, etc) */
     .column4 {
       float: left;
@@ -110,7 +117,7 @@ top: 10px; */
     }
 
     /* Clear floats after image containers */
-    .row::after {
+    .row4::after {
       content: "";
       clear: both;
       display: table;
