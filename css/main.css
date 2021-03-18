@@ -112,7 +112,7 @@ top: 10px; */
     /* Three image containers (use 25% for four, and 50% for two, etc) */
     .column4 {
       float: left;
-      width: 24%;
+      width: 23%;
       padding: 5px;
     }
 
