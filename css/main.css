@@ -105,8 +105,8 @@ top: 10px; */
 .rounded img{
   display: inline;
   object-fit:cover;
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
     }
 
     /* Three image containers (use 25% for four, and 50% for two, etc) */
