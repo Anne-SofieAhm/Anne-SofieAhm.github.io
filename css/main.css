@@ -132,7 +132,7 @@ top: 10px; */
     }
 
 .video-container {
-  width: 32%;
+  width: 50%;
   margin: 1.5rem auto;
   aspect-ratio: 16 / 9;
 }
