@@ -52,10 +52,6 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
     text-align: center;
     background-color: white;
 
@@ -78,8 +74,6 @@ display: inline-block;
 position: relative;
 width: 5px;
 top: 10px; */
-
-}
 
 .holder {
       display: inline;
